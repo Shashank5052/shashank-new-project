@@ -1,0 +1,4 @@
+There are some Git commands 
+Git init
+git add .
+  git commit -m "first changes"
